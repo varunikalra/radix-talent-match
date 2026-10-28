@@ -1,0 +1,2 @@
+System Prompt for Skill Matching & Recommendation:
+"Compare candidate parsed skill sets against target job requirements, compute precise match percentage scores, and categorize matched versus missing capabilities for recruiter recommendations."

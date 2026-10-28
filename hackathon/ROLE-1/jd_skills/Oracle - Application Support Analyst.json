@@ -1,0 +1,56 @@
+{
+    "source_type": "jd",
+    "source_file": "Oracle - Application Support Analyst.pdf",
+    "company": "Oracle Financial Services Software Limited",
+    "role": "Application Support Analyst",
+    "skills": [
+        {
+            "skill_name": "SQL",
+            "category_code": "SQL",
+            "evidence": "Comfort with basic SQL \u2014 simple SELECT/WHERE queries and an understanding of primary keys",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Linux Fundamentals & Command Line",
+            "category_code": "OS",
+            "evidence": "Operating systems and Linux fundamentals \u2014 basic command-line usage, what a log file is",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Operating Systems",
+            "category_code": "OS",
+            "evidence": "Operating systems and Linux fundamentals",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Computer Networking",
+            "category_code": "NETW",
+            "evidence": "Basic networking knowledge \u2014 what an IP address is, client-server architecture fundamentals, and what \u201clatency\u201d means in practice",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Logical and Quantitative Reasoning",
+            "category_code": "APTI",
+            "evidence": "Strong quantitative and logical reasoning \u2014 data interpretation from tables, arithmetic, and structured problem-solving",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Communication Skills",
+            "category_code": "COMM",
+            "evidence": "Excellent communication skills \u2014 able to explain a technical issue to a non-technical client, stay calm during an escalation",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Incident Management & Troubleshooting",
+            "category_code": "SWE",
+            "evidence": "Triage, investigate, and resolve incidents raised by banking clients within SLA; prior exposure to a ticketing/incident system",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Log Analysis and Monitoring",
+            "category_code": "OS",
+            "evidence": "Monitor logs and batch/real-time processes to catch issues early",
+            "confidence": "high"
+        }
+    ]
+}

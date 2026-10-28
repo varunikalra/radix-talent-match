@@ -1,0 +1,56 @@
+{
+    "source_type": "jd",
+    "source_file": "Google LLC - Data Scientist.pdf",
+    "company": "Google LLC",
+    "role": "Data Scientist",
+    "skills": [
+        {
+            "skill_name": "SQL",
+            "category_code": "SQL",
+            "evidence": "Strong SQL skills \u2014 writing and optimizing complex queries, understanding indexing, and designing a schema",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Query Optimization & Schema Design",
+            "category_code": "SQL",
+            "evidence": "Write efficient, production-grade SQL against very large datasets, including schema design and query optimization",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Machine Learning",
+            "category_code": "AI",
+            "evidence": "Foundational machine learning knowledge: bias-variance tradeoff, regression vs. classification, how gradient descent works, and how to recognize overfitting",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Predictive Modeling",
+            "category_code": "AI",
+            "evidence": "Build and evaluate predictive models, applying sound statistical judgment",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "A/B Testing & Experimentation",
+            "category_code": "APTI",
+            "evidence": "Design and run experiments (A/B tests) and interpret their results rigorously",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Quantitative & Analytical Reasoning",
+            "category_code": "APTI",
+            "evidence": "Solid quantitative and analytical reasoning \u2014 comfortable interpreting experiment results, probability, and metrics under ambiguity",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Communication & Stakeholder Management",
+            "category_code": "COMM",
+            "evidence": "Excellent communication skills \u2014 able to explain a complex model or a surprising result to a product manager in plain language",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Business Intelligence & Data Visualization",
+            "category_code": "OTHER",
+            "evidence": "Experience with a BI/visualization tool",
+            "confidence": "medium"
+        }
+    ]
+}

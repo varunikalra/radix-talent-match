@@ -1,0 +1,31 @@
+{
+    "name": "Priya Menon",
+    "email": "priya.menon@example.com",
+    "education": [
+        {
+            "degree": "B.Tech in Information Technology",
+            "institution": "JSS University",
+            "year": "2029"
+        }
+    ],
+    "skills": [
+        {
+            "skill_name": "System Support",
+            "category_code": "OS",
+            "evidence": "Technical troubleshooting",
+            "confidence": "medium"
+        }
+    ],
+    "hackathons": [],
+    "internships": [],
+    "certifications": [
+        {
+            "title": "IT Support Professional",
+            "year": "2026"
+        }
+    ],
+    "preferred_roles": [
+        "Application Support Analyst"
+    ],
+    "cv_file": "resume_skills/Priya Menon_skills.json"
+}

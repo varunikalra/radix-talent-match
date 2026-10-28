@@ -1,0 +1,32 @@
+{
+    "name": "Ananya Rao",
+    "email": "ananya.rao@example.com",
+    "education": [
+        {
+            "degree": "B.Tech in Computer Science",
+            "institution": "JSS University",
+            "year": "2029"
+        }
+    ],
+    "skills": [
+        {
+            "skill_name": "Python",
+            "category_code": "COD",
+            "evidence": "Built backend applications",
+            "confidence": "high"
+        }
+    ],
+    "hackathons": [
+        {
+            "event": "RADIX Hackathon",
+            "project": "Placement Intelligence Hub",
+            "year": "2026"
+        }
+    ],
+    "internships": [],
+    "certifications": [],
+    "preferred_roles": [
+        "Software Engineer (SWE)"
+    ],
+    "cv_file": "resume_skills/Ananya Rao_skills.json"
+}

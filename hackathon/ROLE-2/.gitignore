@@ -1,0 +1,24 @@
+# Environment variables and API keys
+.env
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Temporary uploads and generated data folders
+sample_resumes/*
+!sample_resumes/.gitkeep
+resume_skills/*
+!resume_skills/.gitkeep
+profile_prefill/*
+!profile_prefill/.gitkeep
+
+# OS-specific hidden files
+.DS_Store
+Thumbs.db

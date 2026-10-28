@@ -1,0 +1,9 @@
+{
+    "candidate_name": "Karthik Subramaniam",
+    "email": "karthik.subramaniam@example.com",
+    "eligibility_status": "APPROVED",
+    "checks_performed": {
+        "education_verified": true,
+        "skills_present": true
+    }
+}

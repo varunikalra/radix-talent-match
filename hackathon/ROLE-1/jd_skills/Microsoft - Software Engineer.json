@@ -1,0 +1,68 @@
+{
+    "source_type": "jd",
+    "source_file": "Microsoft - Software Engineer.pdf",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "skills": [
+        {
+            "skill_name": "Data Structures and Algorithms",
+            "category_code": "DSA",
+            "evidence": "Strong data structures and algorithms fundamentals \u2014 hash maps, trees, and complexity analysis, applied confidently under time pressure",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Practical Coding & Problem Solving",
+            "category_code": "COD",
+            "evidence": "Practical coding skills \u2014 pattern matching, interval problems, and writing code that performs well on large inputs",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Operating Systems",
+            "category_code": "OS",
+            "evidence": "Working knowledge of operating systems (process scheduling, virtual memory, concurrency primitives)",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Networking & REST APIs",
+            "category_code": "NETW",
+            "evidence": "core networking (REST APIs, timeouts, request lifecycle)",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "System Design",
+            "category_code": "SYSD",
+            "evidence": "Ability to design at the system level \u2014 sketch a cloud-based storage or notification service and reason about scalability and fault tolerance",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Object-Oriented Design & SOLID Principles",
+            "category_code": "OOD",
+            "evidence": "Understanding of object-oriented design and SOLID principles, and how to design software that's easy to extend",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Software Engineering Best Practices & Testing",
+            "category_code": "SWE",
+            "evidence": "Software engineering maturity \u2014 clean code habits, a real testing strategy, and comfort talking about technical debt honestly",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Agile & Code Reviews",
+            "category_code": "SWE",
+            "evidence": "Participate in Agile ceremonies and design reviews with your team; hold a high bar in code review",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Communication & Collaboration",
+            "category_code": "COMM",
+            "evidence": "Strong communication \u2014 able to describe a hard problem you solved and how you collaborate across teams",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Cloud Infrastructure (Azure)",
+            "category_code": "CLOUD",
+            "evidence": "Exposure to cloud infrastructure (Azure or similar)",
+            "confidence": "high"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Rohan Verma",
+    "email": "rohan.verma@example.com",
+    "education": [
+        {
+            "degree": "B.Tech in Computer Science",
+            "institution": "JSS University",
+            "year": "2029"
+        }
+    ],
+    "skills": [
+        {
+            "skill_name": "Full Stack Development",
+            "category_code": "COD",
+            "evidence": "All-rounder projects",
+            "confidence": "high"
+        }
+    ],
+    "hackathons": [
+        {
+            "event": "TGL Blitz",
+            "project": "Fullstack Platform",
+            "year": "2026"
+        }
+    ],
+    "internships": [
+        {
+            "company": "TechStart",
+            "role": "SWE Intern",
+            "year": "2026"
+        }
+    ],
+    "certifications": [],
+    "preferred_roles": [
+        "Software Engineer",
+        "Data Scientist"
+    ],
+    "cv_file": "resume_skills/Rohan Verma_skills.json"
+}

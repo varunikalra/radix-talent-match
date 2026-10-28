@@ -1,0 +1,33 @@
+{
+    "name": "Karthik Subramaniam",
+    "email": "karthik.subramaniam@example.com",
+    "education": [
+        {
+            "degree": "B.Tech in Data Science",
+            "institution": "JSS University",
+            "year": "2029"
+        }
+    ],
+    "skills": [
+        {
+            "skill_name": "Data Analytics",
+            "category_code": "AI",
+            "evidence": "Machine learning pipelines",
+            "confidence": "high"
+        }
+    ],
+    "hackathons": [],
+    "internships": [
+        {
+            "company": "DataCorp",
+            "role": "Analyst Intern",
+            "year": "2026"
+        }
+    ],
+    "certifications": [],
+    "preferred_roles": [
+        "Data Scientist",
+        "Data Analyst"
+    ],
+    "cv_file": "resume_skills/Karthik Subramaniam_skills.json"
+}

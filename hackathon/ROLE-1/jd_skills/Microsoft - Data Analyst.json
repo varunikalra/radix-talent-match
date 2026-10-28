@@ -1,0 +1,56 @@
+{
+    "source_type": "jd",
+    "source_file": "Microsoft - Data Analyst.pdf",
+    "company": "Microsoft Corporation",
+    "role": "Data Analyst",
+    "skills": [
+        {
+            "skill_name": "SQL",
+            "category_code": "SQL",
+            "evidence": "Write and optimize SQL queries against large production datasets",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Database Schema Design & Normalization",
+            "category_code": "SQL",
+            "evidence": "Design schemas for telemetry and usage data, and know when to normalize vs. denormalize",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Query Optimization",
+            "category_code": "SQL",
+            "evidence": "Strong, practical SQL \u2014 from a simple monthly-active-user query to schema design and index-aware query optimization",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Stakeholder Communication",
+            "category_code": "COMM",
+            "evidence": "Communicate insights clearly to non-technical stakeholders and defend your methodology",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Quantitative Reasoning & Probability",
+            "category_code": "APTI",
+            "evidence": "Solid quantitative reasoning \u2014 interpreting trends, sampling, probability, and reasoning with data tables under ambiguity",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Applied Statistics & Machine Learning",
+            "category_code": "AI",
+            "evidence": "Basic applied statistics/ML literacy: regression vs. classification, what overfitting means, and how to sanity-check a model's output",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Data Visualization & Dashboarding",
+            "category_code": "OTHER",
+            "evidence": "Build dashboards and reporting that stakeholders actually use",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Power BI",
+            "category_code": "OTHER",
+            "evidence": "Experience with a visualization tool (Power BI or similar)",
+            "confidence": "high"
+        }
+    ]
+}

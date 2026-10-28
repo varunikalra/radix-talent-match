@@ -1,0 +1,62 @@
+{
+    "source_type": "jd",
+    "source_file": "Oracle - Associate Software Engineer.pdf",
+    "company": "Oracle Financial Services Software Limited",
+    "role": "Associate Software Engineer",
+    "skills": [
+        {
+            "skill_name": "Programming Fundamentals",
+            "category_code": "COD",
+            "evidence": "Solid programming fundamentals \u2014 able to read and predict the output of code, and solve basic string/array manipulation problems confidently",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Data Structures & Algorithms",
+            "category_code": "DSA",
+            "evidence": "Core data structures knowledge \u2014 arrays vs. linked lists, when to use a stack or a queue, and basic algorithmic problem-solving",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Object-Oriented Programming (OOP)",
+            "category_code": "OOD",
+            "evidence": "Object-oriented programming fundamentals \u2014 inheritance, polymorphism, abstract classes vs. interfaces, explained with real examples",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "SQL & Relational Databases",
+            "category_code": "SQL",
+            "evidence": "Practical SQL knowledge \u2014 correct SELECT/WHERE syntax, understanding of DELETE vs. TRUNCATE, and comfort writing simple queries against a relational schema",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Operating Systems Basics",
+            "category_code": "OS",
+            "evidence": "Operating systems basics \u2014 what a process is, fundamentals of multithreading and memory management",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Quantitative Aptitude & Logical Reasoning",
+            "category_code": "APTI",
+            "evidence": "Strong quantitative aptitude \u2014 time-and-work, ratios, percentages, and logical/seating-arrangement style reasoning",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Software Development Life Cycle (SDLC) & Agile",
+            "category_code": "SWE",
+            "evidence": "Awareness of the software development lifecycle and the difference between Agile and Waterfall, and why documentation matters",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Unit Testing",
+            "category_code": "SWE",
+            "evidence": "Perform unit testing and collaborate closely with QA",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Communication & Collaboration",
+            "category_code": "COMM",
+            "evidence": "Clear communication and a collaborative attitude \u2014 comfortable explaining your final-year project and working under deadline pressure",
+            "confidence": "high"
+        }
+    ]
+}

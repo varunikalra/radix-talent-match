@@ -1,0 +1,80 @@
+{
+    "source_type": "jd",
+    "source_file": "Google LLC - Software Engineer.pdf",
+    "company": "Google LLC",
+    "role": "Software Engineer (SWE)",
+    "skills": [
+        {
+            "skill_name": "Data Structures & Algorithms",
+            "category_code": "DSA",
+            "evidence": "Strong grasp of data structures and algorithms, and the ability to reason about time and space complexity under pressure",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Algorithmic Complexity Analysis",
+            "category_code": "DSA",
+            "evidence": "ability to reason about time and space complexity under pressure",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Hands-on Programming",
+            "category_code": "COD",
+            "evidence": "Hands-on programming ability \u2014 you can turn a problem statement into working, efficient code quickly",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Operating Systems Fundamentals",
+            "category_code": "OS",
+            "evidence": "Working knowledge of operating systems fundamentals (processes, threads, virtual memory)",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Computer Networking",
+            "category_code": "NETW",
+            "evidence": "core networking concepts (TCP/UDP, HTTP, how a web request actually travels)",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Object-Oriented Design & Design Patterns",
+            "category_code": "OOD",
+            "evidence": "Experience or coursework in object-oriented design and common design patterns, with an eye for extensible, maintainable architecture",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "System Design & Distributed Systems",
+            "category_code": "SYSD",
+            "evidence": "Comfort reasoning about system design at scale \u2014 able to sketch how a large distributed system like a URL shortener or a file storage service might be built",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Backend & API Development",
+            "category_code": "SWE",
+            "evidence": "Design and implement backend services and APIs that operate reliably at Google scale",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Software Testing & Code Review",
+            "category_code": "SWE",
+            "evidence": "Solid software engineering fundamentals: testing strategy, code review habits, awareness of technical debt",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "CI/CD Concepts",
+            "category_code": "SWE",
+            "evidence": "basic CI/CD concepts",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Technical Communication",
+            "category_code": "COMM",
+            "evidence": "Clear written and verbal communication \u2014 able to explain a technical tradeoff to engineers and non-engineers alike",
+            "confidence": "high"
+        },
+        {
+            "skill_name": "Cross-Functional Collaboration",
+            "category_code": "COMM",
+            "evidence": "Collaborate closely with cross-functional partners across product, design, and SRE",
+            "confidence": "high"
+        }
+    ]
+}
